@@ -1,5 +1,5 @@
 
-Library/AnnotationManager
+Library
 *.log
-Library/ArtifactDB-lock
-Library/ArtifactDB
+Log
+Temp
